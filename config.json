@@ -1,0 +1,18 @@
+{
+    "splunk":{
+        "token": "a680feed-d649-44ba-bee2-8b5acae11df1",
+        "url": "https://prd-p-onwgg.splunkcloud.com"
+    },
+    "application": {
+        "https_port": 443,
+        "http_port": 80
+    },
+    "certificate": {
+        "path_to_key": "/home/ec2-user/selfsigned.key",
+        "path_to_certificate": "/home/ec2-user/selfsigned.crt"
+    },
+    "endpoints": {
+        "inbound_path": "/logs",
+        "read_path": "/displaylogs"
+    }
+}
