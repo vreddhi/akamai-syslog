@@ -1,7 +1,7 @@
 {
     "splunk":{
-        "token": "a680feed-d649-44ba-bee2-8b5acae11df1",
-        "url": "https://prd-p-onwgg.splunkcloud.com"
+        "token": "********************************",
+        "url": "https://*************.splunkcloud.com"
     },
     "application": {
         "https_port": 443,
